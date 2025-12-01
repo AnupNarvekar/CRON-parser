@@ -9,6 +9,6 @@ This repo was created as an assignment for HOI
 ## Usage:
 1. Clone/download this repo
 2. Open a terminal in this repo
-3. Run: node cron-parser.js <CRON STRING>
+3. Run: `node cron-parser.js CRON_STRING`
 
-Note: Replace <CRON STRING> with appropriate value for your choice.
+Note: Replace `CRON_STRING` with appropriate value of your choice.
